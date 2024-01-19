@@ -15,7 +15,10 @@ export default class SimpleSlider extends Component {
       speed: 500,
       slidesToShow: 1,
       slidesToScroll: 1,
+      autoplay: true,        // Enable autoplay
+      autoplaySpeed: 6000,   // Set the autoplay speed in milliseconds (e.g., 2000ms or 2 seconds)
     };
+    
     return (
       <div className="slider-section overflow-hidden">
         {/* <h2> Single Item</h2> */}
