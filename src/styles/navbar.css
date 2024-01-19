@@ -1,0 +1,30 @@
+.right ul li {
+  cursor: pointer;
+}
+.socia-icons a:hover {
+  color: green;
+}
+.right li:hover {
+  color: green;
+}
+.menu li {
+  cursor: pointer;
+}
+
+/* slider - button  */
+.slider-section img {
+  width: 100%;
+}
+/* .slick-arrow {
+  background-color: aqua;
+}
+.slick-arrow.slick-next {
+  right: 0;
+  background: red;
+}
+
+.slick-arrow.slick-prev {
+  z-index: 1;
+  left: 0;
+  background: red;
+} */
